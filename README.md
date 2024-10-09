@@ -1,6 +1,7 @@
 # Mail Client Web Application
 
-This is a single-page email client web application built using **JavaScript** for the front-end and **Django** for the back-end. The project simulates the functionality of a basic email client, allowing users to send, receive, archive, and reply to emails, as well as manage their inboxes.
+This is a single-page email client web application built using **JavaScript** for the front-end and **Django** for the back-end. The project simulates the functionality of a basic email client, allowing users to send, receive, archive, and reply to emails, as well as manage their inboxes. The purpose of this project is purely educational, and the design and functionality have not been optimized for real-world usage.
+
 
 ## Features
 
